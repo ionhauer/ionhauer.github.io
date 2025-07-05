@@ -44,6 +44,8 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 🎤 Market Insights in Advanced Computing and Electronics (ETH DeepTech Investor Summit, 28 Jan 2025, Zurich)
 
+🎤 [Investment Criteria and Key Focus Areas of Deep Tech Investors](https://www.tum-venture-labs.de/events/quantum-founders-meet-up-expert-session/) (TUM Venture Lab Quantum Founder's Meet-up, 6 Feb 2024, Munich)
+
 ## Panels
 
 🎤 Capital, Transfer, Industry — What's Really Holding Us Back? (Applied Deep Tech Fest, 7 May 2025, Stuttgart)
@@ -57,6 +59,8 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 🎤 [Strategies for Investing in Deep Tech and Quantum](https://www.youtube.com/live/bNaCBaeWlHY?si=BKwJBbPRVFj3sREA&t=3288) (invest.austria 2023 conference, 7 Nov 2023, Vienna)
 
 🎤 European Deeptech Innovation — Just an illusion? (QBN Quantum Industry Summit 2023, 11 Oct 2023, Stuttgart)
+
+🎤 [Learning from Startups: Methods, Mindset & Entrepreneurship in Corporations](https://www.dygitized.de/speaker/dr-ion-hauer/) (DYGITIZED, 3 Nov 2020, Munich)
 
 ## Podcasts
 
