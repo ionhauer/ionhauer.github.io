@@ -98,6 +98,6 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 # Contact
 
-[LinkedIn](https://www.linkedin.com/in/ionhauer/) | [X](https://x.com/ionhauer)
+[LinkedIn](https://www.linkedin.com/in/ionhauer/) &#124; [X](https://x.com/ionhauer)
 
 &copy; 2025 Ion Hauer. All rights reserved.
