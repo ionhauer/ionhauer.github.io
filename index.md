@@ -2,7 +2,7 @@
 
 ![](header.jpg)
 
-Ion is a Principal at APEX Ventures, where he invests venture capital in European early-stage deep tech startups working on advanced computing (quantum, semiconductors, photonics, AI).
+Ion is a Principal at APEX Ventures, where he invests venture capital in European early-stage deep tech startups working on advanced computing (semiconductors, photonics, quantum, AI).
 
 He brings over 14 years of experience at the intersection of technological breakthroughs and financial capital. He has a PhD in quantum physics from Heidelberg University and previously held positions as Chief Operating Officer at GlassDollar, VP Corporate Venturing at Bosch and Management Consultant at Oliver Wyman, while actively angel investing and mentoring startups for many years.
 
@@ -70,7 +70,7 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 🎓 **PhD in quantum physics** from [Heidelberg University](https://www.uni-heidelberg.de/en)
 
-🏠 **Managing Director** at [Hauer Ventures](http://www.hauerventures.com/)
+🏠 **Managing Director** at [Hauer Ventures](https://www.hauerventures.com/)
 
 👨‍🚒 **Startup Mentor** at [Start2 Group](https://www.start2.group), [Techstars](https://www.techstars.com/), and others
 
@@ -90,11 +90,11 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 🏃🏻‍♂️ **Runner** at [Munich Marathon](https://www.muenchenmarathon.de), [Wings for Life World Run](https://www.wingsforlifeworldrun.com), [Spartan Race](https://www.spartan.com), and others
 
-🧑🏻‍🚀 **Aspiring Astronaut** at [ESA](http://www.esa.int/)
-
 ♠️ **Poker Player** at [GGPoker](https://ggpoker.com)
 
-🎹 **Piano Learner** since 2020
+♟️ **Chess Player** at [Chess.com](https://www.chess.com)
+
+🧑🏻‍🚀 **Aspiring Astronaut** at [ESA](https://www.esa.int)
 
 # Contact
 
