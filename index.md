@@ -86,14 +86,18 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 🐠 **Scuba Diver** at [TDI](https://www.tdisdi.com/) (Decompression Diver) and [PADI](https://www.padi.com/) (Rescue Diver)
 
-🧑🏻‍🚀 **Aspiring Astronaut** at [ESA](http://www.esa.int/)
-
 🦊 **Philanthropist** supporting [PETA](https://www.peta.org), [Greenpeace](https://www.greenpeace.org), [Welthungerhilfe](https://www.welthungerhilfe.org), [Amnesty International](https://www.amnesty.org/), [PLAN International](https://plan-international.org)
 
 🏃🏻‍♂️ **Runner** at [Munich Marathon](https://www.muenchenmarathon.de), [Wings for Life World Run](https://www.wingsforlifeworldrun.com), [Spartan Race](https://www.spartan.com), and others
+
+🧑🏻‍🚀 **Aspiring Astronaut** at [ESA](http://www.esa.int/)
+
+♠️ **Poker Player** at [GGPoker](https://ggpoker.com)
 
 🎹 **Piano Learner** since 2020
 
 # Contact
 
-[LinkedIn](https://www.linkedin.com/in/ionhauer/)
+[LinkedIn](https://www.linkedin.com/in/ionhauer/) | [X](https://x.com/ionhauer)
+
+&copy; 2025 Ion Hauer. All rights reserved.
