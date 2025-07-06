@@ -1,6 +1,6 @@
-![](header.jpg)
-
 # Ion Hauer
+
+![](header.jpg)
 
 Ion is a Principal at APEX Ventures, where he invests venture capital in European early-stage deep tech startups working on advanced computing (semiconductors, photonics, quantum, AI).
 
