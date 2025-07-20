@@ -100,6 +100,8 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 🧑🏻‍🚀 **Aspiring Astronaut** at [ESA](https://www.esa.int)
 
+🎮 **Gamer** since 1992 (PC, PlayStation, Quest)
+
 # Contact
 
 [LinkedIn](https://www.linkedin.com/in/ionhauer/) &#124; [X](https://x.com/ionhauer)
