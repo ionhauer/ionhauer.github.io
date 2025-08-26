@@ -12,6 +12,8 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Articles
 
+🗞️ [Quantum's path to commercial viability with APEX Ventures' Ion Hauer](https://infinitefrontiers.io/conversations/quantums-path-to-commercial-viability-with-apex-ventures-ion-hauer/) (Infinite Frontiers, 22 Aug 2025)
+
 🗞️ [2025 Semiconductor Trends: A Venture Capital Perspective](https://apexventures.substack.com/p/2025-semiconductor-trends-a-venture) (APEX Ventures Substack, 11 Jun 2025)
 
 🗞️ [Venture View: Ion Hauer from APEX Ventures on how neutral atoms can deliver on quantum’s commercial promises](https://biforesight.com/quantum/venture-view-ion-hauer-from-apex-ventures-on-how-neutral-atoms-can-deliver-on-quantums-commercial-promises/) (BI Foresight, 16 Oct 2024)
@@ -101,6 +103,14 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 🧑🏻‍🚀 **Aspiring Astronaut** at [ESA](https://www.esa.int)
 
 🎮 **Gamer** since 1992 (PC, PlayStation, Quest)
+
+# Press kit
+
+Main portrait: [square version](ion_hauer_main_square.jpg)
+
+Alternative portrait: [square version](ion_hauer_alternative_square.jpg), [landscape version](ion_hauer_alternative_landscape.jpg)
+
+Speaking images: [version 1](ion_hauer_speaking_1.jpg), [version 2](ion_hauer_speaking_2.jpg), [version 3](ion_hauer_speaking_3.jpg), [version 4](ion_hauer_speaking_4.jpg), [version 5](ion_hauer_speaking_5.jpg), [version 6](ion_hauer_speaking_6.jpg)
 
 # Contact
 
