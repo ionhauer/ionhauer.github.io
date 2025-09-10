@@ -12,7 +12,11 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Articles
 
+🗞️ [Europe’s deep tech renaissance closes Silicon Valley’s innovation gap](https://www.openaccessgovernment.org/europes-deep-tech-renaissance-closes-silicon-valleys-innovation-gap/195658/) (Open Access Government, 5 Sep 2025)
+
 🗞️ [Quantum's path to commercial viability with APEX Ventures' Ion Hauer](https://infinitefrontiers.io/conversations/quantums-path-to-commercial-viability-with-apex-ventures-ion-hauer/) (Infinite Frontiers, 22 Aug 2025)
+
+🗞️ [Ion Hauer of APEX Ventures: Balancing AI with Human Intuition](https://www.conversationalainews.com/ion-hauer-of-apex-ventures-balancing-ai-with-human-intuition/) (Conversational AI, 11 Jun 2025)
 
 🗞️ [2025 Semiconductor Trends: A Venture Capital Perspective](https://apexventures.substack.com/p/2025-semiconductor-trends-a-venture) (APEX Ventures Substack, 11 Jun 2025)
 
@@ -24,7 +28,7 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Commentaries
 
-🗞️ [Ion Hauer of APEX Ventures: Balancing AI with Human Intuition](https://www.conversationalainews.com/ion-hauer-of-apex-ventures-balancing-ai-with-human-intuition/) (Conversational AI, 11 Jun 2025)
+🗞️ [Germany’s innovation gap: Why €90B in R&D isn’t enough without startup collaboration?](https://techfundingnews.com/germany-innovation-gap-rd-startup-collaboration/) (Tech Funding News, 3 Sep 2025)
 
 🗞️ [11 future of compute startups to watch, according to VCs](https://sifted.eu/articles/11-future-of-compute-startups-to-watch) (Sifted, 21 Apr 2025)
 
