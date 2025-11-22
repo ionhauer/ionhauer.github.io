@@ -28,15 +28,15 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Commentaries
 
-🗞️ [Germany’s innovation gap: Why €90B in R&D isn’t enough without startup collaboration?](https://techfundingnews.com/germany-innovation-gap-rd-startup-collaboration/) (Tech Funding News, 3 Sep 2025)
+✍🏻 [Germany’s innovation gap: Why €90B in R&D isn’t enough without startup collaboration?](https://techfundingnews.com/germany-innovation-gap-rd-startup-collaboration/) (Tech Funding News, 3 Sep 2025)
 
-🗞️ [11 future of compute startups to watch, according to VCs](https://sifted.eu/articles/11-future-of-compute-startups-to-watch) (Sifted, 21 Apr 2025)
+✍🏻 [11 future of compute startups to watch, according to VCs](https://sifted.eu/articles/11-future-of-compute-startups-to-watch) (Sifted, 21 Apr 2025)
 
-🗞️ [AI experts available to provide comment to journalists](https://www.responsesource.com/blog/ai-experts-available-to-provide-comment-to-journalists/) (ResponseSource, 25 Feb 2025)
+✍🏻 [AI experts available to provide comment to journalists](https://www.responsesource.com/blog/ai-experts-available-to-provide-comment-to-journalists/) (ResponseSource, 25 Feb 2025)
 
-🗞️ [Draghi report sounds alarm on Europe's competitive decline](https://tech.eu/2024/09/13/draghi-report-sounds-alarm-on-europes-competitive-decline/) (Tech.eu, 13 Sep 2024)
+✍🏻 [Draghi report sounds alarm on Europe's competitive decline](https://tech.eu/2024/09/13/draghi-report-sounds-alarm-on-europes-competitive-decline/) (Tech.eu, 13 Sep 2024)
 
-🗞️ [More qubits, more money, more mergers: Quantum predictions for 2024](https://sifted.eu/articles/quantum-predictions-2024) (Sifted, 27 Dec 2023)
+✍🏻 [More qubits, more money, more mergers: Quantum predictions for 2024](https://sifted.eu/articles/quantum-predictions-2024) (Sifted, 27 Dec 2023)
 
 ## Talks
 
@@ -54,19 +54,19 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Panels
 
-🎤 Capital, Transfer, Industry — What's Really Holding Us Back? (Applied Deep Tech Fest, 7 May 2025, Stuttgart)
+💬 Capital, Transfer, Industry — What's Really Holding Us Back? (Applied Deep Tech Fest, 7 May 2025, Stuttgart)
 
-🎤 [Scaling Up: The Future of European Venture Capital](https://www.1e9.community/festival-der-zukunft/programm/2024/scaling-up%3A-the-future-of-european-venture-capital) (Festival der Zukunft, 27 Jun 2024, Munich)
+💬 [Scaling Up: The Future of European Venture Capital](https://www.1e9.community/festival-der-zukunft/programm/2024/scaling-up%3A-the-future-of-european-venture-capital) (Festival der Zukunft, 27 Jun 2024, Munich)
 
-🎤 Quantum Life Sciences and Venture Capital (3rd Nordic Quantum Life Science Roundtable, 15 Nov 2023, Helsinki)
+💬 Quantum Life Sciences and Venture Capital (3rd Nordic Quantum Life Science Roundtable, 15 Nov 2023, Helsinki)
 
-🎤 Industrial Application of Quantum Technologies (Forum Schlüsseltechnologien, 13 Nov 2023, Vienna)
+💬 Industrial Application of Quantum Technologies (Forum Schlüsseltechnologien, 13 Nov 2023, Vienna)
 
-🎤 [Strategies for Investing in Deep Tech and Quantum](https://www.youtube.com/live/bNaCBaeWlHY?si=BKwJBbPRVFj3sREA&t=3288) (invest.austria 2023 conference, 7 Nov 2023, Vienna)
+💬 [Strategies for Investing in Deep Tech and Quantum](https://www.youtube.com/live/bNaCBaeWlHY?si=BKwJBbPRVFj3sREA&t=3288) (invest.austria 2023 conference, 7 Nov 2023, Vienna)
 
-🎤 European Deeptech Innovation — Just an illusion? (QBN Quantum Industry Summit 2023, 11 Oct 2023, Stuttgart)
+💬 European Deeptech Innovation — Just an illusion? (QBN Quantum Industry Summit 2023, 11 Oct 2023, Stuttgart)
 
-🎤 [Learning from Startups: Methods, Mindset & Entrepreneurship in Corporations](https://www.dygitized.de/speaker/dr-ion-hauer/) (DYGITIZED, 3 Nov 2020, Munich)
+💬 [Learning from Startups: Methods, Mindset & Entrepreneurship in Corporations](https://www.dygitized.de/speaker/dr-ion-hauer/) (DYGITIZED, 3 Nov 2020, Munich)
 
 ## Podcasts
 
@@ -100,13 +100,13 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 🏃🏻‍♂️ **Runner** at [Munich Marathon](https://www.muenchenmarathon.de), [Wings for Life World Run](https://www.wingsforlifeworldrun.com), [Spartan Race](https://www.spartan.com), and others
 
-♠️ **Poker Player** at [GGPoker](https://ggpoker.com)
-
 ♟️ **Chess Player** at [Chess.com](https://www.chess.com)
+
+♠️ **Poker Player** at [GGPoker](https://ggpoker.com)
 
 🧑🏻‍🚀 **Aspiring Astronaut** at [ESA](https://www.esa.int)
 
-🎮 **Gamer** since 1992 (PC, PlayStation, Quest)
+🎮 **Gamer** since 1992 (PC, PlayStation, Quest, SNES, Gameboy)
 
 # Press kit
 
@@ -118,6 +118,6 @@ Speaking images: [version 1](ion_hauer_speaking_1.jpg), [version 2](ion_hauer_sp
 
 # Contact
 
-[LinkedIn](https://www.linkedin.com/in/ionhauer/) &#124; [X](https://x.com/ionhauer)
+[LinkedIn](https://www.linkedin.com/in/ionhauer/) &#124; [X](https://x.com/ionhauer) &#124; [Instagram](https://www.instagram.com/ionhauer)
 
 &copy; 2025 Ion Hauer. All rights reserved.
