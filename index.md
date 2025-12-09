@@ -12,6 +12,8 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Articles
 
+🗞️ [APEX Ventures: The Sectors VCs Won’t Stop Talking About in 2026](https://techround.co.uk/business/apex-ventures-the-sectors-vcs-wont-stop-talking-about-in-2026/) (TechRound, 8 Dec 2025)
+
 🗞️ [Europe’s deep tech renaissance closes Silicon Valley’s innovation gap](https://www.openaccessgovernment.org/europes-deep-tech-renaissance-closes-silicon-valleys-innovation-gap/195658/) (Open Access Government, 5 Sep 2025)
 
 🗞️ [Quantum's path to commercial viability with APEX Ventures' Ion Hauer](https://infinitefrontiers.io/conversations/quantums-path-to-commercial-viability-with-apex-ventures-ion-hauer/) (Infinite Frontiers, 22 Aug 2025)
@@ -72,7 +74,7 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 🎙️ [Venturing Beyond: Quantum Computing's Frontier Explored by a VC](https://www.youtube.com/watch?v=0PjrATWVxF0) (Understanding VC, 15 Aug 2023)
 
-🎙️ [Investing in Deep Tech](https://www.youtube.com/watch?v=rCEue4RGtVk) (The Leadership Lab with DeepRec.ai, 31 Jul 2023)
+🎙️ [Investing in DeepTech with Ion Hauer](https://www.youtube.com/watch?v=rCEue4RGtVk) (The Leadership Lab with DeepRec.ai, 31 Jul 2023)
 
 # Experience
 
