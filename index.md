@@ -4,13 +4,15 @@
 
 Ion is a Principal at APEX Ventures, where he invests venture capital in European early-stage deep tech startups working on advanced computing (semiconductors, photonics, quantum, AI).
 
-He brings over 14 years of experience at the intersection of technological breakthroughs and financial capital. He has a PhD in quantum physics from Heidelberg University and previously held positions as Chief Operating Officer at GlassDollar, VP Corporate Venturing at Bosch and Management Consultant at Oliver Wyman, while actively angel investing and mentoring startups for many years.
+He brings over 15 years of experience at the intersection of technological breakthroughs and financial capital. He has a PhD in quantum physics from Heidelberg University and previously held positions as Chief Operating Officer at GlassDollar, VP Corporate Venturing at Bosch and Management Consultant at Oliver Wyman, while actively angel investing and mentoring startups for many years.
 
 A passionate technical and rescue diver, Ion is based in Munich, Germany, with his wife and son.
 
 # Content
 
 ## Articles
+
+🗞️ [Why the AI Infrastructure Bubble Will Burst (and What Replaces It)](https://siliconvalleysjournal.com/2025/12/09/why-the-ai-infrastructure-bubble-will-burst-and-what-replaces-it/) (Silicon Valleys Journal, 9 Dec 2025)
 
 🗞️ [APEX Ventures: The Sectors VCs Won’t Stop Talking About in 2026](https://techround.co.uk/business/apex-ventures-the-sectors-vcs-wont-stop-talking-about-in-2026/) (TechRound, 8 Dec 2025)
 
@@ -25,8 +27,6 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 🗞️ [Venture View: Ion Hauer from APEX Ventures on how neutral atoms can deliver on quantum’s commercial promises](https://biforesight.com/quantum/venture-view-ion-hauer-from-apex-ventures-on-how-neutral-atoms-can-deliver-on-quantums-commercial-promises/) (BI Foresight, 16 Oct 2024)
 
 🗞️ [Europe needs more scientists in VC to become a deeptech powerhouse](https://tech.eu/2024/02/10/europe-needs-more-scientists-in-vc-to-become-a-deep-tech-powerhouse/) (Tech.eu, 10 Feb 2024)
-
-🗞️ [Welcome to Dr. Ion Hauer, Principal at APEX Ventures](https://medium.com/apex-ventures/welcome-to-dr-ion-hauer-principal-at-apex-ventures-537450fcf030) (APEX Ventures Medium, 2 Aug 2023)
 
 ## Commentaries
 
