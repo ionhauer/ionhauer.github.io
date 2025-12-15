@@ -12,6 +12,8 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Articles
 
+🗞️ [The quantum reality check: Why 2026 will be the year of the hard pivot](https://techfundingnews.com/quantum-industry-2026-consolidation-customer-wallets-vc-predictions/) (Tech Funding News, 15 Dec 2025)
+
 🗞️ [Why the AI Infrastructure Bubble Will Burst (and What Replaces It)](https://siliconvalleysjournal.com/2025/12/09/why-the-ai-infrastructure-bubble-will-burst-and-what-replaces-it/) (Silicon Valleys Journal, 9 Dec 2025)
 
 🗞️ [APEX Ventures: The Sectors VCs Won’t Stop Talking About in 2026](https://techround.co.uk/business/apex-ventures-the-sectors-vcs-wont-stop-talking-about-in-2026/) (TechRound, 8 Dec 2025)
