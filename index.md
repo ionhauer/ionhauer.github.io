@@ -32,6 +32,8 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Commentaries
 
+✍🏻 [What’s the deep tech word for 2026?](https://biforesight.com/quantum/whats-the-deep-tech-word-for-2026/) (BI Foresight, 16 Jan 2026)
+
 ✍🏻 [Germany’s innovation gap: Why €90B in R&D isn’t enough without startup collaboration?](https://techfundingnews.com/germany-innovation-gap-rd-startup-collaboration/) (Tech Funding News, 3 Sep 2025)
 
 ✍🏻 [11 future of compute startups to watch, according to VCs](https://sifted.eu/articles/11-future-of-compute-startups-to-watch) (Sifted, 21 Apr 2025)
