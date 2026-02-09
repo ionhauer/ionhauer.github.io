@@ -128,4 +128,4 @@ Speaking images: [version 1](ion_hauer_speaking_1.jpg), [version 2](ion_hauer_sp
 
 [LinkedIn](https://www.linkedin.com/in/ionhauer/) &#124; [X](https://x.com/ionhauer) &#124; [Instagram](https://www.instagram.com/ionhauer)
 
-&copy; 2025 Ion Hauer. All rights reserved.
+&copy; 2026 Ion Hauer. All rights reserved.
