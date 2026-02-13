@@ -32,6 +32,8 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Commentaries
 
+✍🏻 [Analysis: Why some seed rounds close in 14 days, and others die after 6 months](https://techfundingnews.com/how-europe-startups-raise-seed-rounds-in-2-weeks/) (Tech Funding News, 12 Feb 2026)
+
 ✍🏻 [January 2026's top 10 European tech deals you need to know about](https://tech.eu/2026/02/05/january-2026s-top-10-european-tech-deals-you-need-to-know-about/) (Tech.eu, 5 Feb 2026)
 
 ✍🏻 [What’s the deep tech word for 2026?](https://biforesight.com/quantum/whats-the-deep-tech-word-for-2026/) (BI Foresight, 16 Jan 2026)
