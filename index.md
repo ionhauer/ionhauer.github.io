@@ -52,6 +52,8 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Talks
 
+🎤 GTM Best Practices in High Performance Computing (Deep Tech Momentum, 20 May 2026, Berlin)
+
 🎤 Recent Trends in Next-Gen Computing Investments (HHL SpinLab Investors Day, 18 Jun 2025, Leipzig)
 
 🎤 Pilots that Attract Investment: Key factors for investment success (Build Better Hardwave Vol. 7, 3 Jun 2025, Munich)
