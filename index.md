@@ -68,6 +68,8 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Panels
 
+💬 Why startups and investors need unified legal frameworks accross Europe (HHL SpinLab Investors Day, 3 Jun 2026, Leipzig)
+
 💬 Capital, Transfer, Industry — What's Really Holding Us Back? (Applied Deep Tech Fest, 7 May 2025, Stuttgart)
 
 💬 [Scaling Up: The Future of European Venture Capital](https://www.1e9.community/festival-der-zukunft/programm/2024/scaling-up%3A-the-future-of-european-venture-capital) (Festival der Zukunft, 27 Jun 2024, Munich)
