@@ -52,6 +52,8 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Talks
 
+🎤 [A Venture Capitalist’s View on Photonics for Quantum Technologies](https://epic-photonics.com/events/epic-technology-meeting-on-photonics-for-quantum-technologies-at-fraunhofer-hhi/) (EPIC Technology Meeting on Photonics for Quantum Technologies at Fraunhofer HHI, 16 Jun 2026, Berlin)
+
 🎤 GTM Best Practices in High Performance Computing (Deep Tech Momentum, 20 May 2026, Berlin)
 
 🎤 Recent Trends in Next-Gen Computing Investments (HHL SpinLab Investors Day, 18 Jun 2025, Leipzig)
