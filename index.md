@@ -32,6 +32,8 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Commentaries
 
+✍🏻 [Anthropic vs the Trump administration: Is the Fable and Mythos national security ban just political retaliation?](https://techfundingnews.com/anthropic-shutdown-fable-mythos-ban-trump/) (Tech Funding News, 29 Jun 2026)
+
 ✍🏻 [European Union deep tech plan too late for quantum champions IQM and Pasqal](https://www.computerweekly.com/news/366641257/European-Union-deep-tech-plan-too-late-for-quantum-champions-IQM-and-Pasqal) (Computer Weekly, 9 Apr 2026)
 
 ✍🏻 [Analysis: Why some seed rounds close in 14 days, and others die after 6 months](https://techfundingnews.com/how-europe-startups-raise-seed-rounds-in-2-weeks/) (Tech Funding News, 12 Feb 2026)
