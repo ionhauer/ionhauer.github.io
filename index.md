@@ -54,13 +54,15 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Talks
 
+🎤 [Will the AI infrastructure bubble burst (and what will replace it)?](https://festival.1e9.community/programm/session/410a3606-24b9-4b77-84a3-a7ba5136e0bd) (Festival der Zukunft, 3 Jul 2026, Munich)
+
 🎤 [A Venture Capitalist’s View on Photonics for Quantum Technologies](https://epic-photonics.com/events/epic-technology-meeting-on-photonics-for-quantum-technologies-at-fraunhofer-hhi/) (EPIC Technology Meeting on Photonics for Quantum Technologies at Fraunhofer HHI, 16 Jun 2026, Berlin)
 
 🎤 GTM Best Practices in High Performance Computing (Deep Tech Momentum, 20 May 2026, Berlin)
 
 🎤 Recent Trends in Next-Gen Computing Investments (HHL SpinLab Investors Day, 18 Jun 2025, Leipzig)
 
-🎤 Pilots that Attract Investment: Key factors for investment success (Build Better Hardwave Vol. 7, 3 Jun 2025, Munich)
+🎤 Pilots that Attract Investment: Key factors for investment success (Build Better Hardware Vol. 7, 3 Jun 2025, Munich)
 
 🎤 The Deep Tech Transfer Playbook: Transforming University IP into Successful Ventues (Deep Tech Momentum, 14 May 2025, Berlin)
 
@@ -72,6 +74,8 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Panels
 
+💬 [Where is the quantum industry heading in 2026?](https://festival.1e9.community/programm/session/59204ca6-23f6-4c37-b7cd-322fc2d9484a) (Festival der Zukunft, 2 Jul 2026, Munich)
+
 💬 Why startups and investors need unified legal frameworks accross Europe (HHL SpinLab Investors Day, 3 Jun 2026, Leipzig)
 
 💬 Capital, Transfer, Industry — What's Really Holding Us Back? (Applied Deep Tech Fest, 7 May 2025, Stuttgart)
@@ -80,7 +84,7 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 💬 Quantum Life Sciences and Venture Capital (3rd Nordic Quantum Life Science Roundtable, 15 Nov 2023, Helsinki)
 
-💬 Industrial Application of Quantum Technologies (Forum Schlüsseltechnologien, 13 Nov 2023, Vienna)
+💬 [Industrial Application of Quantum Technologies](https://www.fwf.ac.at/aktuelles/detail/oesterreich-in-quantentechnologie-auf-ueberholspur-bringen) (Forum Schlüsseltechnologien, 13 Nov 2023, Vienna)
 
 💬 [Strategies for Investing in Deep Tech and Quantum](https://www.youtube.com/live/bNaCBaeWlHY?si=BKwJBbPRVFj3sREA&t=3288) (invest.austria 2023 conference, 7 Nov 2023, Vienna)
 
