@@ -2,7 +2,7 @@
 
 ![](header.jpg)
 
-Ion is a Principal at APEX Ventures, where he invests venture capital in European early-stage deep tech startups with a focus on the future of computing (semiconductors, photonics, quantum, AI).
+Ion is an Investment Partner at APEX Ventures, where he invests venture capital in European early-stage deep tech startups with a focus on the future of computing (semiconductors, photonics, quantum, AI).
 
 He brings over 15 years of experience at the intersection of technological breakthroughs and financial capital. He has a PhD in quantum physics from Heidelberg University and previously held positions as Chief Operating Officer at GlassDollar, VP Corporate Venturing at Bosch and Management Consultant at Oliver Wyman, while actively angel investing and mentoring startups for many years.
 
@@ -100,7 +100,7 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 # Experience
 
-🚀 **Principal** at [APEX Ventures](https://www.apex.ventures/)
+🚀 **Investment Partner** at [APEX Ventures](https://www.apex.ventures/)
 
 🎓 **PhD in quantum physics** from [Heidelberg University](https://www.uni-heidelberg.de/en)
 
