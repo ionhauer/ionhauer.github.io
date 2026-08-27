@@ -76,6 +76,8 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Panels
 
+💬 Investing in the Next Wave of AI: AI infrastructure, compute and the next generation of AI companies (BII Demo Day, 25 Aug 2026, Copenhagen)
+
 💬 [Where is the quantum industry heading in 2026?](https://festival.1e9.community/programm/session/59204ca6-23f6-4c37-b7cd-322fc2d9484a) (Festival der Zukunft, 2 Jul 2026, Munich)
 
 💬 Why startups and investors need unified legal frameworks accross Europe (HHL SpinLab Investors Day, 3 Jun 2026, Leipzig)
@@ -88,9 +90,9 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 💬 [Industrial Application of Quantum Technologies](https://www.fwf.ac.at/aktuelles/detail/oesterreich-in-quantentechnologie-auf-ueberholspur-bringen) (Forum Schlüsseltechnologien, 13 Nov 2023, Vienna)
 
-💬 [Strategies for Investing in Deep Tech and Quantum](https://www.youtube.com/live/bNaCBaeWlHY?si=BKwJBbPRVFj3sREA&t=3288) (invest.austria 2023 conference, 7 Nov 2023, Vienna)
+💬 [Strategies for Investing in Deep Tech and Quantum](https://www.youtube.com/live/bNaCBaeWlHY?si=BKwJBbPRVFj3sREA&t=3288) (invest.austria conference, 7 Nov 2023, Vienna)
 
-💬 European Deeptech Innovation — Just an illusion? (QBN Quantum Industry Summit 2023, 11 Oct 2023, Stuttgart)
+💬 European Deeptech Innovation — Just an illusion? (QBN Quantum Industry Summit, 11 Oct 2023, Stuttgart)
 
 💬 [Learning from Startups: Methods, Mindset & Entrepreneurship in Corporations](https://www.dygitized.de/speaker/dr-ion-hauer/) (DYGITIZED, 3 Nov 2020, Munich)
 
