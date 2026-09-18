@@ -76,6 +76,10 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Panels
 
+💬 Deep Tech Scaling: The Social Safety Net & Spinout Architecture (Nordeep, 17 Sep 2026, Espoo)
+
+💬 Beyond the Hype: The Industrialization of Future Compute (Nordeep, 16 Sep 2026, Espoo)
+
 💬 Investing in the Next Wave of AI: AI infrastructure, compute and the next generation of AI companies (BII Demo Day, 25 Aug 2026, Copenhagen)
 
 💬 [Where is the quantum industry heading in 2026?](https://festival.1e9.community/programm/session/59204ca6-23f6-4c37-b7cd-322fc2d9484a) (Festival der Zukunft, 2 Jul 2026, Munich)
