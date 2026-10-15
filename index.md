@@ -104,6 +104,8 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Podcasts
 
+🎙️ [From Quantum Lab to VC: Rethinking Who Funds the Future](https://podcasts.apple.com/de/podcast/from-quantum-lab-to-vc-rethinking-who-funds-the-future/id1091537240?i=1000776550009&l=en-GB) (Tech Talks, 13 Jul 2026)
+
 🎙️ [Venturing Beyond: Quantum Computing's Frontier Explored by a VC](https://www.youtube.com/watch?v=0PjrATWVxF0) (Understanding VC, 15 Aug 2023)
 
 🎙️ [Investing in DeepTech with Ion Hauer](https://www.youtube.com/watch?v=rCEue4RGtVk) (The Leadership Lab with DeepRec.ai, 31 Jul 2023)
