@@ -32,6 +32,8 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Commentaries
 
+✍🏻 [15 photonics startups to watch, according to VCs](https://sifted.eu/articles/15-photonics-startups-to-watch-according-to-vcs) (Sifted, 2 Nov 2026)
+
 ✍🏻 [Can Europe and Canada build a tech alliance to rival the US?](https://sifted.eu/articles/eu-canada-mark-carney-tech-alliance-sovereignty) (Sifted, 21 Oct 2026)
 
 ✍🏻 [What Europe’s spinouts need to capitalise on deeptech boom: patient capital, customer obsession and support for female founders](https://sifted.eu/articles/europes-spinouts-capitalise-deeptech-boom) (Sifted, 15 Oct 2026)
