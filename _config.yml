@@ -1,0 +1,37 @@
+# GitHub Pages applies jekyll-theme-primer when no theme is set
+# (Primer markdown-body, the theme stylesheet, and anchor.js).
+# Pin it so adding this file does not change the look.
+theme: jekyll-theme-primer
+
+title: Ion Hauer
+# User site at the domain root. Pinning baseurl stops jekyll-github-metadata
+# from treating a local production build as a project page.
+url: https://ionhauer.github.io
+baseurl: ""
+author:
+  name: Ion Hauer
+  twitter: ionhauer
+
+# Square portrait, so a summary card. summary_large_image expects a wide
+# image and would crop this headshot.
+twitter:
+  username: ionhauer
+  card: summary
+
+# jekyll-seo-tag appends site.description to the homepage <title> when that
+# title matches the site title ("Ion Hauer | <the whole description>").
+# A page description still fills meta description and og:description, and
+# leaves the document title as "Ion Hauer".
+defaults:
+  - scope:
+      path: ""
+    values:
+      description: >-
+        Investment Partner at APEX Ventures, investing in European early-stage
+        deep tech: semiconductors, photonics, quantum and AI. PhD in quantum
+        physics, based in Munich.
+      image:
+        path: /ion_hauer_social.jpg
+        width: 1200
+        height: 1200
+        alt: Portrait of Ion Hauer
