@@ -32,6 +32,8 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 ## Commentaries
 
+✍🏻 [Technologie: Rekordfinanzierung für deutsches Quanten-Start-up](https://www.handelsblatt.com/technik/forschung-innovation/technologie-rekordfinanzierung-fuer-deutsches-quanten-start-up/100266111.html) (Handelsblatt, 3 Nov 2026)
+
 ✍🏻 [15 photonics startups to watch, according to VCs](https://sifted.eu/articles/15-photonics-startups-to-watch-according-to-vcs) (Sifted, 2 Nov 2026)
 
 ✍🏻 [Can Europe and Canada build a tech alliance to rival the US?](https://sifted.eu/articles/eu-canada-mark-carney-tech-alliance-sovereignty) (Sifted, 21 Oct 2026)
