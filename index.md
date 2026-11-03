@@ -4,9 +4,29 @@
 
 Ion is an Investment Partner at APEX Ventures, where he invests venture capital in European early-stage deep tech startups with a focus on the future of computing (semiconductors, photonics, quantum, AI).
 
+Selected investments include [GEMESYS](https://gemesys.tech), [Farang](https://farang.com), [Skycore Semiconductors](https://www.skycore-semi.com), [enclaive](https://www.enclaive.io) and [Photon Bridge](https://www.photonbridge.com), among others.
+
 He brings over 15 years of experience at the intersection of technological breakthroughs and financial capital. He has a PhD in quantum physics from Heidelberg University and previously held positions as Chief Operating Officer at GlassDollar, VP Corporate Venturing at Bosch and Management Consultant at Oliver Wyman, while actively angel investing and mentoring startups for many years.
 
 A passionate technical and rescue diver, Ion is based in Munich, Germany, with his wife and son.
+
+# Experience
+
+🚀 **Investment Partner** at [APEX Ventures](https://www.apex.ventures/)
+
+🎓 **PhD in quantum physics** from [Heidelberg University](https://www.uni-heidelberg.de/en)
+
+🏠 **Managing Director** at [Hauer Ventures](https://www.hauerventures.com/)
+
+👨‍🚒 **Startup Mentor** at [Start2 Group](https://www.start2.group), [Techstars](https://www.techstars.com/), and others
+
+👨🏻‍🏫 Former **Lecturer** at [Munich Business School](https://www.munich-business-school.de/en)
+
+🙋🏻‍♂️ Former **Chief Operating Officer** at [GlassDollar](https://www.glassdollar.com/)
+
+💂‍♀️ Former **VP Corporate Venturing** at [Bosch](https://www.bosch.com/) ([BSH Startup Kitchen](https://www.bshstartupkitchen.com/))
+
+💼 Former **Management Consultant** at [Oliver Wyman](https://www.oliverwyman.com/)
 
 # Content
 
@@ -74,7 +94,7 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 🎤 Pilots that Attract Investment: Key factors for investment success (Build Better Hardware Vol. 7, 3 Jun 2025, Munich)
 
-🎤 The Deep Tech Transfer Playbook: Transforming University IP into Successful Ventues (Deep Tech Momentum, 14 May 2025, Berlin)
+🎤 The Deep Tech Transfer Playbook: Transforming University IP into Successful Ventures (Deep Tech Momentum, 14 May 2025, Berlin)
 
 🎤 VC Perspective on Semiconductor Trends and Investment Opportunities (Applied Deep Tech Fest, 7 May 2025, Stuttgart)
 
@@ -92,7 +112,7 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 
 💬 [Where is the quantum industry heading in 2026?](https://festival.1e9.community/programm/session/59204ca6-23f6-4c37-b7cd-322fc2d9484a) (Festival der Zukunft, 2 Jul 2026, Munich)
 
-💬 Why startups and investors need unified legal frameworks accross Europe (HHL SpinLab Investors Day, 3 Jun 2026, Leipzig)
+💬 Why startups and investors need unified legal frameworks across Europe (HHL SpinLab Investors Day, 3 Jun 2026, Leipzig)
 
 💬 Capital, Transfer, Industry — What's Really Holding Us Back? (Applied Deep Tech Fest, 7 May 2025, Stuttgart)
 
@@ -115,24 +135,6 @@ A passionate technical and rescue diver, Ion is based in Munich, Germany, with h
 🎙️ [Venturing Beyond: Quantum Computing's Frontier Explored by a VC](https://www.youtube.com/watch?v=0PjrATWVxF0) (Understanding VC, 15 Aug 2023)
 
 🎙️ [Investing in DeepTech with Ion Hauer](https://www.youtube.com/watch?v=rCEue4RGtVk) (The Leadership Lab with DeepRec.ai, 31 Jul 2023)
-
-# Experience
-
-🚀 **Investment Partner** at [APEX Ventures](https://www.apex.ventures/)
-
-🎓 **PhD in quantum physics** from [Heidelberg University](https://www.uni-heidelberg.de/en)
-
-🏠 **Managing Director** at [Hauer Ventures](https://www.hauerventures.com/)
-
-👨‍🚒 **Startup Mentor** at [Start2 Group](https://www.start2.group), [Techstars](https://www.techstars.com/), and others
-
-👨🏻‍🏫 Former **Lecturer** at [Munich Business School](https://www.munich-business-school.de/en)
-
-🙋🏻‍♂️ Former **Chief Operating Officer** at [GlassDollar](https://www.glassdollar.com/)
-
-💂‍♀️ Former **VP Corporate Venturing** at [Bosch](https://www.bosch.com/) ([BSH Startup Kitchen](https://www.bshstartupkitchen.com/))
-
-💼 Former **Management Consultant** at [Oliver Wyman](https://www.oliverwyman.com/)
 
 # Interests
 
