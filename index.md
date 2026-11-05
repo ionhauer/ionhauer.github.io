@@ -8,7 +8,7 @@ He brings over 15 years of experience at the intersection of technological break
 
 A passionate technical and rescue diver, Ion is based in Munich, Germany, with his wife and son.
 
-Selected board positions include [GEMESYS](https://gemesys.tech), [kiutra](https://kiutra.com), [Mobius Labs](https://www.mobiuslabs.com), [Farang](https://farang.com), [Skycore Semiconductors](https://www.skycore-semi.com), [enclaive](https://www.enclaive.io) and [Photon Bridge](https://www.photonbridge.com).
+Selected board positions include [GEMESYS](https://gemesys.tech), [kiutra](https://kiutra.com), Mobius Labs (acquired by Dropbox), [Farang](https://farang.com), [Skycore Semiconductors](https://www.skycore-semi.com), [enclaive](https://www.enclaive.io) and [Photon Bridge](https://www.photonbridge.com).
 
 # Experience
 
