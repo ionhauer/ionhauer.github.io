@@ -2,13 +2,13 @@
 
 ![](header.jpg)
 
-Ion is an Investment Partner at APEX Ventures, where he invests venture capital in European early-stage deep tech startups with a focus on the future of computing (semiconductors, photonics, quantum, AI).
+Ion is an Investment Partner at APEX Ventures, where he invests in European early-stage deep tech startups with a focus on the future of computing (semiconductors, photonics, quantum, AI, cybersecurity).
 
 He brings over 15 years of experience at the intersection of technological breakthroughs and financial capital. He has a PhD in quantum physics from Heidelberg University and previously held positions as Chief Operating Officer at GlassDollar, VP Corporate Venturing at Bosch and Management Consultant at Oliver Wyman, while actively angel investing and mentoring startups for many years.
 
-A passionate technical and rescue diver, Ion is based in Munich, Germany, with his wife and son.
+A passionate technical and rescue diver, Ion is based in Munich, Germany, with his wife and two sons.
 
-Selected board positions include [GEMESYS](https://gemesys.tech), [kiutra](https://kiutra.com), Mobius Labs (acquired by Dropbox), [Farang](https://farang.com), [Skycore Semiconductors](https://www.skycore-semi.com), [enclaive](https://www.enclaive.io) and [Photon Bridge](https://www.photonbridge.com).
+His board positions include [GEMESYS](https://gemesys.tech), [kiutra](https://kiutra.com), Mobius Labs (acquired by Dropbox), [Farang](https://farang.com), [Skycore Semiconductors](https://www.skycore-semi.com), [enclaive](https://www.enclaive.io), [Daisytuner](https://daisytuner.com) and [Photon Bridge](https://www.photonbridge.com).
 
 # Experience
 
